@@ -1,1 +1,8 @@
-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
+# Aprendiendo conceptos React
+
+- Sintaxis JSX
+- React props
+- Proptypes (libreria)
+- Uso de css
+- Fetch
+- Hooks basicos (useState y useEffect)
