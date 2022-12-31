@@ -1,0 +1,15 @@
+.card {
+    background: #202020;
+    color: gold;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.terminada {
+    background: green;
+}
+
+
+.cancelada{
+    background: red;
+}
